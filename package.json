@@ -1,0 +1,24 @@
+{
+  "name": "steal-css-style-tag",
+  "version": "1.0.0",
+  "description": "Plugin for loading css using style tag",
+  "main": "css.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/whitecolor/steal-css-style-tag.git"
+  },
+  "keywords": [
+    "stealjs",
+    "systemjs",
+    "script"
+  ],
+  "author": "whitecolor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitecolor/steal-css-style-tag/issues"
+  },
+  "homepage": "https://github.com/whitecolor/steal-css-style-tag#readme"
+}
